@@ -1,2 +1,2 @@
 # Patterson-Group
-Codebase and CAD files for Patterson Group @UCSB 
+## Codebase and CAD files for Patterson Group @UCSB 
