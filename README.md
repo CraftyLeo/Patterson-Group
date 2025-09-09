@@ -11,7 +11,7 @@ Break down into sub sections here.
 
 ## CAD Files 
 
-This section branch is currently broken down into relevant quarters and between completed and uncompleted projects. 
+This folder is currently broken down into relevant quarters and between completed and uncompleted projects. 
 
 ## Readings
 
