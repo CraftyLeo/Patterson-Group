@@ -1,21 +1,20 @@
 # Patterson-Group
 
-Welcome to the Patterson Group's GitHub! We are an AMO physics lab @ UCSB interested in preparing polyatomic molecules in single quantum states. This is the home for the codebase for our experiments, as well as our relevant CAD files for machining. The GitHub is structured as follows: the experimental section holds all of our code relevant to running our current experiments; the CAD section holds all of our relevant CAD files; the readings section is intended to share our previous work for interested group members; each of these sections will be broken down into relevant folders based on the year or relevant experiments. If you are just getting started with GitHub and have questions please read [the GitHub Help Section](https://github.com/CraftyLeo/Patterson-Group/blob/main/README.md#trouble-getting-github-set-up-here-are-a-few-easy-steps-that-even-a-physicist-can-understand)
-
+Welcome to the Patterson Group's GitHub! We are an AMO physics lab @ UCSB interested in preparing polyatomic molecules in single quantum states. This is the home for the codebase for our experiments, as well as our relevant CAD files for machining. The GitHub is structured as follows: the experimental section holds all of our code relevant to running our current experiments; the CAD section holds all of our relevant CAD files; the readings section is intended to share our previous work for interested group members; each of these sections will be broken down into relevant folders based on the year or relevant experiments. If you are just getting started with GitHub and have questions, please read [the GitHub Help Section](https://github.com/CraftyLeo/Patterson-Group/blob/main/README.md#trouble-getting-github-set-up-here-are-a-few-easy-steps-that-even-a-physicist-can-understand). To learn more or request access, please see the [contact list]().
 
 The GitHub is currently a work in development, but expect more updates to come soon. 
 
 ## Experimental Code 
 
-Break down into sub sections here. 
+This is where we will keep and organize all of our relevant MATLAB scripts and other files needed to run our experiments. Generally, we will break this down by experiment, and we may have separate folders for particular experiments that we are running.
 
 ## CAD Files 
 
-This folder is currently broken down into relevant quarters and between completed and uncompleted projects. 
+This is where we will upload all of our CAD files for machining. We will organize this by quarter and by experiment, so accessing the relevant files we need can be easily done. It is also important to notet that we will be primarily be using inventor as our CAD software of choice, so it is easiest to learn how to do that [here](https://www.autodesk.com/learn/ondemand/curated/inventor-quick-start-guide). 
 
 ## Readings
 
-Explain whats going on here later.
+This section will be primarily targeted at new group members or any particular papers that are relevant to what we do in the lab. It is currently broken down into readings for new group members and papers relevant to our experiments.
 
 
 # Trouble getting GitHub set up? Here are a few easy steps that even a physicist can understand
@@ -49,3 +48,7 @@ If you also happen to delete a file and push this deletion, no worries! It is ea
 
 ### File mismatch 
 If you also happen to pull too late and the file has already been changed, you can also keep your version saved, but I recommend saving it as a copy and merging the two versions by hand if they have been changed significantly. But remember to pull to avoid this error!
+
+# Contact List 
+
+Paco Navarro (PhD Student) FranciscoNavarro[AT]UCSB[dot]edu
