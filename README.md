@@ -22,7 +22,7 @@ Explain whats going on here later.
 
 ## Getting started with GitHub
 1. First, create a GitHub Account where it says sign up. (Make sure you save your login and passkey recovery info for future use)
-2. Second, (install GitHub Desktop)[https://desktop.github.com/download/] and sign in there! It is an easy interface for pushing and pulling code from the GitHub.
+2. Second, [install GitHub Desktop](https://desktop.github.com/download/) and sign in there! It is an easy interface for pushing and pulling code from the GitHub.
 3. Once GitHub Desktop is installed, clone this repository to your computer. What this does is create a copy of this whole repo on your computer, which you can edit and update.
 
 ## Contributing Code to the GitHub
